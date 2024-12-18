@@ -1,0 +1,22 @@
+{
+    "resolution": 16,
+    "colors": [
+      "#FFFFFF",
+      "#000000",
+      "#EB5757",
+      "#F2994A",
+      "#F2C94C",
+      "#27AE60",
+      "#2F80ED",
+      "#9B51E0"
+  ],
+  "theme": {
+    "primary": "#000000",
+    "secondary": "#07495F",
+    "tertiary": "#0E92BE",
+    "weak": "#B2B2B2",
+    "background": "#56CCF2",
+    "shadow": "rgba(0,0,0,0.3)",
+    "orangered": "#FF4500"
+  }
+}
