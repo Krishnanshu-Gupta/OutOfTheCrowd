@@ -3,6 +3,12 @@
 ## **Overview**
 **Out of the Crowd** is a fun and engaging Reddit-based guessing game where you try to pick the least popular valid answer from a Reddit thread. The rarer your guess, the higher your score! Compete with other players on the leaderboard to become the ultimate *"Crowd Whisperer"*.
 
+<h1 align="center">
+  <a href="[Reddit - Out of the Crowd](https://www.reddit.com/r/OutOfTheCrowd/comments/1hfxu7p/out_of_the_crowd_guess_the_least_popular_answer/)" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Live%20App-BetBotX-green" alt="Live Game" />
+  </a>
+</h1>
+
 ---
 
 ## **How to Play**
